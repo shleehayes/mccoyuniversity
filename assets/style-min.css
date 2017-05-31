@@ -50,6 +50,14 @@ h6 {
 section {
   padding: 100px 0; }
 
+@media screen and (min-width: 340px) {
+  /*section {
+    padding: 50px 0;
+  }
+  .slide-area {
+    height: 500px;
+  }*/ }
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0; } }
@@ -88,7 +96,7 @@ section h3.section-subheading-home {
 
 /*HEADER*/
 header {
-  background-image: url("img/banner1.jpg");
+  background-image: url("img/banner.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -281,6 +289,12 @@ ul.topnav li.icon {
   cursor: pointer;
   opacity: 0;
   border-radius: 15px; }
+
+@media screen and (min-width: 340px) {
+  #next {
+    top: 87px; }
+  #prev {
+    top: 87px; } }
 
 #hero:hover #next {
   opacity: 1;

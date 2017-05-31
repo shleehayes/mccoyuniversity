@@ -27,19 +27,9 @@
 		},
 	"\/assets\/img\/banner.jpg": {
 		"ft": 16384,
-		"iS": 4676470,
-		"oA": 0,
-		"oAP": "\/assets\/img\/banner.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/assets\/img\/banner1.jpg": {
-		"ft": 16384,
 		"iS": 11110291,
 		"oA": 0,
-		"oAP": "\/assets\/img\/banner1.jpg",
+		"oAP": "\/assets\/img\/banner.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -82,7 +72,7 @@
 		"oAP": "\/assets\/img\/hp-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/img\/hp-5.jpg": {
@@ -92,355 +82,107 @@
 		"oAP": "\/assets\/img\/hp-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4242.jpg": {
+	"\/assets\/img\/img1.jpg": {
 		"ft": 16384,
-		"iS": 786606,
+		"iS": 461418,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4242.jpg",
+		"oAP": "\/assets\/img\/img1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4244.m4v": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/IMG_4244.m4v",
-		"oF": 0
-		},
-	"\/assets\/img\/IMG_4245.jpg": {
+	"\/assets\/img\/img10.jpg": {
 		"ft": 16384,
-		"iS": 1785943,
+		"iS": 371726,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4245.jpg",
+		"oAP": "\/assets\/img\/img10.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4246.jpg": {
+	"\/assets\/img\/img2.jpg": {
 		"ft": 16384,
-		"iS": 1836110,
+		"iS": 504179,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4246.jpg",
+		"oAP": "\/assets\/img\/img2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4247.jpg": {
+	"\/assets\/img\/img3.jpg": {
 		"ft": 16384,
-		"iS": 2120979,
+		"iS": 756039,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4247.jpg",
+		"oAP": "\/assets\/img\/img3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4248.jpg": {
+	"\/assets\/img\/img4.jpg": {
 		"ft": 16384,
-		"iS": 192383,
+		"iS": 876560,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4248.jpg",
+		"oAP": "\/assets\/img\/img4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4249.m4v": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/IMG_4249.m4v",
-		"oF": 0
-		},
-	"\/assets\/img\/IMG_4250.jpg": {
+	"\/assets\/img\/img5.jpg": {
 		"ft": 16384,
-		"iS": 1259070,
+		"iS": 587046,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4250.jpg",
+		"oAP": "\/assets\/img\/img5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4251.jpg": {
+	"\/assets\/img\/img6.jpg": {
 		"ft": 16384,
-		"iS": 258570,
+		"iS": 458320,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4251.jpg",
+		"oAP": "\/assets\/img\/img6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4252.jpg": {
+	"\/assets\/img\/img7.jpg": {
 		"ft": 16384,
-		"iS": 1385020,
+		"iS": 592561,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4252.jpg",
+		"oAP": "\/assets\/img\/img7.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4253.jpg": {
+	"\/assets\/img\/img8.jpg": {
 		"ft": 16384,
-		"iS": 2560273,
+		"iS": 367518,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4253.jpg",
+		"oAP": "\/assets\/img\/img8.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG_4254.jpg": {
+	"\/assets\/img\/img9.jpg": {
 		"ft": 16384,
-		"iS": 2138910,
+		"iS": 411323,
 		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4254.jpg",
+		"oAP": "\/assets\/img\/img9.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4255.jpg": {
-		"ft": 16384,
-		"iS": 2279187,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4255.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4256.jpg": {
-		"ft": 16384,
-		"iS": 1775194,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4256.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4257.jpg": {
-		"ft": 16384,
-		"iS": 3837647,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4257.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4258.jpg": {
-		"ft": 16384,
-		"iS": 3606944,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4258.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4259.jpg": {
-		"ft": 16384,
-		"iS": 282320,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4259.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4260.jpg": {
-		"ft": 16384,
-		"iS": 2135214,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4260.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4261.jpg": {
-		"ft": 16384,
-		"iS": 1760624,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4261.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4262.m4v": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/IMG_4262.m4v",
-		"oF": 0
-		},
-	"\/assets\/img\/IMG_4263.jpg": {
-		"ft": 16384,
-		"iS": 2122174,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4263.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4264.jpg": {
-		"ft": 16384,
-		"iS": 1708298,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4264.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4265.jpg": {
-		"ft": 16384,
-		"iS": 1680501,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4265.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4266.jpg": {
-		"ft": 16384,
-		"iS": 2611461,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4266.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4267.jpg": {
-		"ft": 16384,
-		"iS": 1978672,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4267.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4268.jpg": {
-		"ft": 16384,
-		"iS": 1451423,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4268.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4269.jpg": {
-		"ft": 16384,
-		"iS": 2984631,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4269.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4270.jpg": {
-		"ft": 16384,
-		"iS": 2874556,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4270.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4271.jpg": {
-		"ft": 16384,
-		"iS": 2543663,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4271.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4272.jpg": {
-		"ft": 16384,
-		"iS": 415005,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4272.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4273.jpg": {
-		"ft": 16384,
-		"iS": 205989,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4273.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4274.jpg": {
-		"ft": 16384,
-		"iS": 412728,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4274.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4275.jpg": {
-		"ft": 16384,
-		"iS": 1965452,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4275.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4276.jpg": {
-		"ft": 16384,
-		"iS": 1617384,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4276.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4277.jpg": {
-		"ft": 16384,
-		"iS": 1787648,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4277.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/IMG_4278.jpg": {
-		"ft": 16384,
-		"iS": 722153,
-		"oA": 0,
-		"oAP": "\/assets\/img\/IMG_4278.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/reset.css": {
@@ -1085,6 +827,15 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/vendor\/jquery\/jquery.cycle.all.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/vendor\/jquery\/jquery.cycle.all-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/vendor\/jquery\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
@@ -1099,6 +850,24 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/vendor\/jquery\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/vendor\/jquery\/slider-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/vendor\/jquery\/slider-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/vendor\/jquery\/slider.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/vendor\/jquery\/slider-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0

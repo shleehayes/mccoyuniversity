@@ -30,8 +30,12 @@
 		    <!-- Plugin JavaScript -->
 		    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" integrity="sha384-mE6eXfrb8jxl0rzJDBRanYqgBxtJ6Unn4/1F7q4xRRyIw7Vdg9jP4ycT7x1iVsgb" crossorigin="anonymous"></script>
 
+				<!-- Slider JavaScript -->
+				<script src="vendor/jquery/slider.js"></script>
+				<script src="vendor/jquery/jquery.cycle.all.js"></script>
+
 				<!-- Theme JavaScript -->
-				<script src="assets/script.js"></script>
+				<script src="vendor/jquery/script.js"></script>
 
 </body>
 
